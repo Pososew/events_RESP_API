@@ -1,9 +1,9 @@
 POST http://localhost:8080/events
 content-type: application/json
-authorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRlc3Q2QGV4YW1wbGUuY29tIiwiZXhwIjoxNzMyOTU4Mzc2LCJ1c2VySWQiOjN9.Rz1Q9fp8sNc499oQ21sCrIRqfuXF84q21e9qfIJWU4g
+authorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRlc3Q2QGV4YW1wbGUuY29tIiwiZXhwIjoxNzM1MDAyNjU2LCJ1c2VySWQiOjN9.gOJZuuc2v0IPjL3BsgHe0rdOVoe7BHt9WcCsJMWvGfI
 
 {
-    "title": "Event for dogs!!",
+    "title": "Event for something",
     "description": "Event for dogs party",
     "location": "Riga-Latvia",
     "dateTime": "2025-01-01T15:30:00.000Z"
